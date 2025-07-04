@@ -118,7 +118,7 @@ Built with modern tools like Vite, Tailwind CSS, and Radix UI, it offers seamles
 <img width="1512" alt="Screenshot 2025-07-04 at 7 28 05 AM" src="https://github.com/user-attachments/assets/2f06358b-f3af-4ad8-9d64-5dd61a88e43d" />
 <img width="1494" alt="Screenshot 2025-07-04 at 7 28 51 AM" src="https://github.com/user-attachments/assets/44795a47-c20b-49ae-9aca-f99f0d788b49" />
 <img width="1510" alt="Screenshot 2025-07-04 at 7 29 10 AM" src="https://github.com/user-attachments/assets/91e2f89b-c7c1-4230-a5fc-fe1436d6797f" />
-![Uploading Screenshot 2025-07-04 at 9.51.54 AM.png…]()
+<img width="1512" alt="Screenshot 2025-07-04 at 9 55 15 AM" src="https://github.com/user-attachments/assets/578cdec7-ef7b-4df4-a5b3-4583ba52ea78" />
 <img width="1499" alt="Screenshot 2025-07-04 at 9 52 22 AM" src="https://github.com/user-attachments/assets/87aebcda-ec17-4883-acff-e60325cfa147" />
 <img width="1497" alt="Screenshot 2025-07-04 at 9 52 48 AM" src="https://github.com/user-attachments/assets/8e16cd9a-3a9b-4dac-af7f-7d49dadf963a" />
 <img width="1496" alt="Screenshot 2025-07-04 at 9 53 35 AM" src="https://github.com/user-attachments/assets/0e38539a-9380-4b72-bcce-5b7dfcd8dcf1" />
