@@ -1,4 +1,4 @@
-<img width="1512" alt="Screenshot 2025-07-04 at 9 55 15 AM" src="https://github.com/user-attachments/assets/578cdec7-ef7b-4df4-a5b3-4583ba52ea78" /># 🎓 Learnify - eLearning Platform
+# 🎓 Learnify - eLearning Platform
 
 Learnify is a **full-stack eLearning platform** combining a sleek React frontend with a powerful Express backend.  
 Built with modern tools like Vite, Tailwind CSS, and Radix UI, it offers seamless course browsing, enrollment, and management for both learners and instructors.  
